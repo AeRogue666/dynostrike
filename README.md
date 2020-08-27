@@ -3,10 +3,10 @@
 Dynostrike est une version éditée du jeu Dyno proposé par Google dans Chromium (et particulièrement utilisé sur Google Chrome).
 Cette version est à but humoristique et a été faite du début jusqu'à la fin dans ce seul et unique but.
 Vous pouvez disposer de dynostrike comme bon vous semble.
-Cependant je vous demanderai de bien vouloir ne pas le reupload tel quel sur votre repot ne serait-ce que par respect et par humour.
+Cependant je vous demanderai de bien vouloir ne pas le reupload tel quel sur votre dépôt ne serait-ce que par respect et par humour.
 
 
-Si vous souhaitez obtenir le jeu Dyno intact, je vous invite à cliquer sur le lien menant au repot de wayou :
+Si vous souhaitez obtenir le jeu Dyno intact, je vous invite à cliquer sur le lien menant au dépôt de wayou :
 https://github.com/wayou/t-rex-runner
 
 
