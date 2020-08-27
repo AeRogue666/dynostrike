@@ -14,4 +14,4 @@ Vous pouvez jouer aux jeux que je conçois via mon github complètement gratuite
 Si vous souhaitez le lancer sur votre ordinateur, il vous suffit de cliquer sur le fichier index.html afin de lancer le jeu.
 Il y a un autobot activable et à l'avenir vous pourrez régler la vitesse du dyno, avec ou sans l'utilisation du bot.
 
-
+Vous pouvez jouer à Dynostrike ici : https://binarybreakfast.github.io/dynostrike/
